@@ -28,7 +28,7 @@ function titles($pageName){
         
         //creating buttons for pages
 
-	echo '<a href="Home.php">Home Page</a>';
+	echo '<a href="index.php">Home Page</a>';
 	echo '<a href="Game.php">Game Page</a>';
 	echo '<a href="Reg.php">Reg Page </a>';
 
